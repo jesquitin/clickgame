@@ -1,0 +1,21 @@
+
+
+ 
+
+  img {
+    height: 160px;
+    width: 200px;
+    padding: 10px;
+    border-radius: 10px solid white;
+    
+
+  }
+  
+  .img-container:hover {
+      transform: scale(1.50);
+  }
+  
+  img {
+    width: 60%;
+  }
+  
